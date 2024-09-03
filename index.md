@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CFD Simulations
 ---
 
 # My CFD Projects Page
