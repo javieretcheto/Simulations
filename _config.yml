@@ -1,2 +1,5 @@
 title: Simulations Repository
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-mathjax
