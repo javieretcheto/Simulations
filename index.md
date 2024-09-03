@@ -8,7 +8,7 @@ Welcome to my page where I showcase my CFD projects.
 
 ## Projects
 
-### [Project 1](project1.html)
+### [CFD Project](project1.html)
 <div style="text-align: justify;">
     ![CFD Project](assets/Mesh-2.png)
     Brief description of Project 1.
