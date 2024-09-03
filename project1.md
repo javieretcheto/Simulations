@@ -18,4 +18,6 @@ title: Conjugate Heat Transfer of a Compressible Fluid
 
 </div>
 
-$$F = ma$$
+$$
+\frac{a}{b} = c
+$$
