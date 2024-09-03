@@ -14,11 +14,6 @@ Welcome to my page where I showcase my CFD projects.
 </div>
 
 
-### [Project 2](project2.html)
-<div style="text-align: justify;">
-    ![Project 2](assets/other-image.png) <!-- Replace with actual image URL -->
-    Brief description of Project 2.
-</div>
 
 
 ## About Me
