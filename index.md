@@ -9,7 +9,7 @@ Welcome to my page where I showcase my CFD projects.
 ## Projects
 
 ### [Project 1](project1.html)
-![Project 1](url-to-project-1-image)
+![Project 1 2](url-to-project-1-image)
 Brief description of Project 1.
 
 ### [Project 2](project2.html)
