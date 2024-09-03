@@ -9,12 +9,17 @@ Welcome to my page where I showcase my CFD projects.
 ## Projects
 
 ### [Project 1](project1.html)
-![Project 1 2](url-to-project-1-image)
-Brief description of Project 1.
+<div style="text-align: justify;">
+    ![CFD Project](assets/Mesh-2.png)
+    Brief description of Project 1.
+</div>
 
 ### [Project 2](project2.html)
-![Project 2](url-to-project-2-image)
-Brief description of Project 2.
+<div style="text-align: justify;">
+    ![Project 2](assets/other-image.png) <!-- Replace with actual image URL -->
+    Brief description of Project 2.
+</div>
+
 
 ## About Me
 
