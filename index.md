@@ -8,10 +8,10 @@ Welcome to my page where I showcase my CFD projects.
 
 ## Projects
 
-### [CFD Project](project1.html)
+### [CFD Project](project1.md)
 <div style="text-align: justify;">
-    ![CFD Project](assets/Mesh-2.png)
-    Brief description of Project 1.
+    <img src="assets/Mesh-2.png" alt="CFD Project" style="width:50%;"/>
+    Brief description of the CFD Project.
 </div>
 
 ### [Project 2](project2.html)
