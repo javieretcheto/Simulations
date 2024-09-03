@@ -10,9 +10,16 @@ Welcome to my page where I showcase my CFD projects.
 
 ### [CFD Project](project1.md)
 <div style="text-align: justify;">
-    <img src="assets/Mesh-2.png" alt="CFD Project" style="width:50%;"/>
-    Brief description of the CFD Project.
+    <h1>Project 1: CFD Analysis</h1>
+    <h3>A Detailed Study of Fluid Dynamics</h3>
+    <div style="text-align: center;">
+        <img src="assets/Mesh-2.png" alt="CFD Project" style="width:25%;"/>
+    </div>
+    This project investigates the following equation:
+
+    $$F = ma$$
 </div>
+
 
 ### [Project 2](project2.html)
 <div style="text-align: justify;">
