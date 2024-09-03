@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Conjugate Heat Transfer of a Compressible Fluid
 ---
 
 # Project 1
