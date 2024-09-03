@@ -15,7 +15,7 @@ title: Conjugate Heat Transfer of a Compressible Fluid
     </div>
     This project investigates the following equation:
 
-    $$F = ma$$
+
 </div>
 
-Detailed description of Project 1 will be added soon.
+$$F = ma$$
