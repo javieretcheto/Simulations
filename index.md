@@ -1,8 +1,6 @@
 
 ---
 title: CFD Simulations
-description: A comprehensive overview of my Computational Fluid Dynamics (CFD) projects, showcasing various simulations and analyses.
-layout: default
 ---
 
 # Computational Fluid Dynamics Projects
