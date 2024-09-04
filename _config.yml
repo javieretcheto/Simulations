@@ -1,2 +1,4 @@
 title: Simulations
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-latex
