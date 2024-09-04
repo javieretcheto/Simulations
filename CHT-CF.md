@@ -25,7 +25,7 @@ title: Conjugate Heat Transfer of a Compressible Fluid
 
     <div style="text-align: center;">
         <table>
-            <tablecaption>Table 1: Components and Materials List</caption>
+            <tablecaption>Table 1: Components and Materials List</tablecaption>
             <thead>
                 <tr>
                     <th>Component</th>
