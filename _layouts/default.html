@@ -2,7 +2,23 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-
+    <style>
+        table {
+            margin-left: auto;
+            margin-right: auto;
+            border-collapse: collapse; /* Optional for better border styling */
+        }
+        caption {
+            caption-side: bottom; /* Optional: places the caption at the bottom */
+            font-style: italic; /* Optional: italicize the caption text */
+            padding-top: 8px; /* Optional: spacing between table and caption */
+        }
+        th, td {
+            border: 1px solid black; /* Optional: add borders to table cells */
+            padding: 8px; /* Optional: add padding inside cells */
+            text-align: center; /* Optional: center-align text in cells */
+        }
+    </style>
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
