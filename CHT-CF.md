@@ -11,7 +11,7 @@ title: Conjugate Heat Transfer of a Compressible Fluid
     <h1>Project 1: CFD Analysis</h1>
     <h3>A Detailed Study of Fluid Dynamics</h3>
     <div style="text-align: center;">
-        <img src="assets/Mesh-2.png" alt="CFD Project" style="width:60%;"/>
+        <img src="assets/photo-1.png" alt="CFD Project" style="width:85%;"/>
     </div>
 
 
