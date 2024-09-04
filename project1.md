@@ -34,3 +34,26 @@ HTML Entities:
 Unicode Characters:
 a² + b² = c²
 
+$$
+    \begin{array}{|c|c|c|}
+    \hline
+    \text{Column 1} & \text{Column 2} & \text{Column 3} \\
+    \hline
+    \text{Row 1} & \text{Data} & \text{More Data} \\
+    \text{Row 2} & \text{Data} & \text{More Data} \\
+    \hline
+    \end{array}
+$$
+
+$
+\begin{array}{|c|c|c|}
+\hline
+\text{Column 1} & \text{Column 2} & \text{Column 3} \\
+\hline
+\text{Row 1} & \text{Data} & \text{More Data} \\
+\text{Row 2} & \text{Data} & \text{More Data} \\
+\hline
+\end{array}
+$
+
+
