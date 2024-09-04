@@ -18,7 +18,7 @@ title: Conjugate Heat Transfer of a Compressible Fluid
     A technical drawing is shown in Figure 1. The air flows downwards, crossing three different regions: the first, characterized by being the pipe inside an inner chamber with a temperature of -20°C and a length of 250 mm; the second, with a length of 570 mm and located in the gap between the inner and outer vessels; and the third, where the pipe extends from the external vessel to the aerosol spectrometer.
     
     <figure>
-        <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="height:100%;"/>
+        <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="height:50%;"/>
          <figcaption>Figure 2: Schematic section of connection system: components and dimensions.</figcaption>
     </figure>
     
