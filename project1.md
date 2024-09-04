@@ -74,3 +74,17 @@ $$
     </tr>
   </tbody>
 </table>
+
+$$
+    \begin{tabular}{|l|l|}
+    \hline
+    \textbf{Component}         & \textbf{Material}     \\
+    \hline
+    Tube, Collar and Flange    & SS 304L               \\
+    \hline
+    PTFE Seal                  & PTFE                  \\
+    \hline
+    Spring                     & ---                   \\
+    \hline
+    \end{tabular}
+$$
