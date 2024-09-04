@@ -18,6 +18,4 @@ title: Conjugate Heat Transfer of a Compressible Fluid
 
 </div>
 
-$$
-\frac{a}{b} = c
-$$
+$ \frac{a}{b} = c $
