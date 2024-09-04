@@ -21,13 +21,34 @@ title: Conjugate Heat Transfer of a Compressible Fluid
         <img src="assets/real-geometry-1.png" alt="CFD Project" style="width:100%;"/>
     </div>
     
+
     <div style="text-align: center;">
-        | Component              |    Material   |
-        |------------------------|---------------|
-        | Tube, Collar and Flange|    SS 304L    |
-        | PTFE Seal              |     PTFE      |
-        | Spring                 |     ---       |
-   </div>
+        <table>
+            <caption>Component and Material List</caption>
+            <thead>
+                <tr>
+                    <th>Component</th>
+                    <th>Material</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Tube, Collar and Flange</td>
+                    <td>SS 304L</td>
+                </tr>
+                <tr>
+                    <td>PTFE Seal</td>
+                    <td>PTFE</td>
+                </tr>
+                <tr>
+                    <td>Spring</td>
+                    <td>---</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
 </div>
 
 
