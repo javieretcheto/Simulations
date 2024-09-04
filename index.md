@@ -10,7 +10,7 @@ Welcome to my portfolio of Computational Fluid Dynamics (CFD) projects. Here, yo
 </div>
 ## Featured Projects
 
-### <img src="assets/icon-2.png" alt="Icon" style="width:40px; vertical-align:middle;"/> [Conjugate Heat Transfer of a Compressible Fluid](Conjugate-Heat-Transfer-of-a-Compressible-Flow.md)
+### <img src="assets/icon-2.png" alt="Icon" style="width:40px; vertical-align:middle;"/> [Conjugate Heat Transfer of a Compressible Fluid](CHT-Compressible-Flow.md)
 
 <div style="text-align: justify;">
     In this project, we analyze a compressible airflow involving Conjugate Heat Transfer (CHT) using CFX. The study focuses on a laminar internal flow of air drawn from a cloud chamber (AIDAd) to an aerosol spectrometer (Welas), where it undergoes heating during circulation. This heating can be detrimental to water and ice particles...
