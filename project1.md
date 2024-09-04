@@ -45,15 +45,32 @@ $$
     \end{array}
 $$
 
-$
-\begin{array}{|c|c|c|}
-\hline
-\text{Column 1} & \text{Column 2} & \text{Column 3} \\
-\hline
-\text{Row 1} & \text{Data} & \text{More Data} \\
-\text{Row 2} & \text{Data} & \text{More Data} \\
-\hline
-\end{array}
-$
+| Symbol  | Description |
+|---------|-------------|
+| $\alpha$| Alpha       |
+| $\beta$ | Beta        |
+| $\gamma$| Gamma       |
 
 
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>\(\alpha\)</td>
+      <td>Alpha</td>
+    </tr>
+    <tr>
+      <td>\(\beta\)</td>
+      <td>Beta</td>
+    </tr>
+    <tr>
+      <td>\(\gamma\)</td>
+      <td>Gamma</td>
+    </tr>
+  </tbody>
+</table>
