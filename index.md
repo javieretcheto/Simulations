@@ -1,12 +1,12 @@
 ---
-title: CAE/CFD Simulation Repository
-description: A comprehensive overview of my Computational Fluid Dynamics (CFD) Projects, showcasing various simulations and analyses.
+title: Simulations
+description: A detailed showcase of my CFD and CAE projects, including methodologies and results.
 layout: default
 ---
 
 # Computational Fluid Dynamics Projects
 <div style="text-align: justify;">
-Welcome to my portfolio of Computational Fluid Dynamics (CFD) projects. Here, you will find detailed descriptions and results of various simulations and analyses that I have conducted.
+Welcome to my portfolio of Computational Fluid Dynamics (CFD) projects. Here, you will find detailed descriptions and results of various simulations and analyses that I have conducted over the last years.
 </div>
 ## Featured Projects
 
