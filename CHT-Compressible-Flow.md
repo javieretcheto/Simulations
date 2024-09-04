@@ -40,8 +40,8 @@ layout: default
 
 <div class="figure-container">
     <figure>
-        <img src="assets/geometries-1.png" alt="CFD Domain Diagrams" style="width:60%;"/>
-         <figcaption>Figure 2: Section of the geometry considered in the simulations with (right) and without (left) thermal insulator. Dimensions and boundary conditions are depicted.</figcaption>
+        <img src="assets/geometries-1.png" alt="CFD Domain Diagrams" style="width:80%;"/>
+         <figcaption>Figure 3: Section of the geometry considered in the simulations with (right) and without (left) thermal insulator. Dimensions and boundary conditions are depicted.</figcaption>
     </figure>
 </div>  
 
