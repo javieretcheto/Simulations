@@ -15,7 +15,7 @@ layout: default
 
 <div class="figure-container">
     <figure>
-        <img src="assets/photo-1.jpg" alt="System Setup Photo" style="width:100%;"/>
+        <img src="assets/photo-1.jpg" alt="System Setup Photo" style="width:110%;"/>
          <figcaption>Figure 1: System Setup.</figcaption>
     </figure>
 </div>  
