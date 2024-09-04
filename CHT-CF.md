@@ -20,7 +20,7 @@ title: Conjugate Heat Transfer of a Compressible Fluid
 </div>    
 
 <figure>
-    <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="height:50%;"/>
+    <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="width:50%;"/>
      <figcaption>Figure 2: Schematic section of connection system: components and dimensions.</figcaption>
 </figure>
     
