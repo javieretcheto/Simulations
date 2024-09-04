@@ -19,3 +19,18 @@ title: Conjugate Heat Transfer of a Compressible Fluid
 </div>
 
 $ \frac{a}{b} = c $
+
+MathML:
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msup>
+</math>
+
+HTML Entities:
+<p>For example: &alpha; + &beta; = &gamma;</p>
+
+Unicode Characters:
+a² + b² = c²
+
