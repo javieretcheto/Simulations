@@ -76,7 +76,7 @@ $$
 </table>
 
 $$
-    \begin{{array}{|l|l|}
+    \begin{array}{|l|l|}
     \hline
     \textbf{Component}         & \textbf{Material}     \\
     \hline
@@ -86,5 +86,5 @@ $$
     \hline
     Spring                     & ---                   \\
     \hline
-    \end{{array}
+    \end{array}
 $$
