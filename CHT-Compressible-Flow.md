@@ -7,15 +7,11 @@ layout: default
 <div style="text-align: justify;">    
     In this project, we analyze a compressible airflow involving Conjugate Heat Transfer (CHT) using CFX. The study focuses on a laminar internal flow of air drawn from a cloud chamber (AIDAd) to an aerosol spectrometer (Welas), where it undergoes heating during circulation. This heating can be detrimental to water and ice particles, making it crucial to investigate. The project examines the use of thermal insulation to mitigate this effect. Heat exchange with the external air is modeled using correlations to calculate the Nusselt number, which is then employed to determine the heat transfer coefficient (h).
     
-    <figure style="text-align: center;">
-        <img src="assets/photo-1.jpg" alt="System Setup Photo" style="width: 120%;"/>
-        <figcaption>Figure 1: System Setup Photo</figcaption>
-    </figure> 
 </div>
 
 <div class="figure-container">
     <figure>
-        <img src="assets/photo-1.jpg" alt="System Setup Photo" style="width:120%;"/>
+        <img src="assets/photo-1.jpg" alt="System Setup Photo" style="width:100%;"/>
          <figcaption>Figure 1: System Setup.</figcaption>
     </figure>
 </div>  
@@ -28,11 +24,18 @@ layout: default
 
 <div class="figure-container">
     <figure>
-        <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="width:50%;"/>
+        <img src="assets/real-geometry-1.png" alt="System Setup Diagram" style="width:60%;"/>
          <figcaption>Figure 2: Schematic section of connection system: components and dimensions.</figcaption>
     </figure>
-</div>    
+</div>  
 
+<div style="text-align: justify;">
+    On one hand, the PTFE seal component prevents cold air from escaping the inner chamber. On the other hand, the flange component, in contact with the external vessel, ensures that the air in the gap remains contained.
+
+    In the following section, and based on the foregoing description, the CFD model will be presented. The CFD domain, along with the boundary conditions, the mesh, and the most relevant features, will be described.
+</div> 
+<h1>CFD Model</h1>
+<h2>Code, Domain and Physical Porperties.</h2>
 <div class="table-container">
     <table>
         <tablecaption>Table 1: Components and Materials List</tablecaption>
