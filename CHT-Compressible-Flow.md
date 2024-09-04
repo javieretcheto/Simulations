@@ -34,8 +34,17 @@ layout: default
 
     In the following section, and based on the foregoing description, the CFD model will be presented. The CFD domain, along with the boundary conditions, the mesh, and the most relevant features, will be described.
 </div> 
+
 <h1>CFD Model</h1>
 <h2>Code, Domain and Physical Porperties.</h2>
+
+<div class="figure-container">
+    <figure>
+        <img src="assets/geometries-1.png" alt="CFD Domain Diagrams" style="width:60%;"/>
+         <figcaption>Figure 2: Section of the geometry considered in the simulations with (right) and without (left) thermal insulator. Dimensions and boundary conditions are depicted.</figcaption>
+    </figure>
+</div>  
+
 <div class="table-container">
     <table>
         <tablecaption>Table 1: Components and Materials List</tablecaption>
